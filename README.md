@@ -23,8 +23,9 @@ It supports resolution of multiple DNS record types and includes caching for imp
 ├── resolver.py # Main Python script (your 4.py).
 ├── dns_record.txt # JSON-based cache file.
 └── README.md # Project documentation.
----
+
 ```
+---
 ## ▶️ How to Run
 
 1. **Install the required library**:
